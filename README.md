@@ -30,3 +30,4 @@ which is also present in this repository.
 * [Average Index Score For Each Zip Code](https://public.tableau.com/app/profile/irisa2031/viz/RMDSvisualization/Story1)
 * [Word Cloud](https://public.tableau.com/app/profile/thuong.nguyen/viz/Wordcloud_Reviews/Sheet1)
 * [Covid Density and Restaurant Locations](https://public.tableau.com/app/profile/thuong.nguyen/viz/Covid_and_Restaurants/Sheet2)
+* [Population Density and Restaurant Locations](https://public.tableau.com/app/profile/sumin.park/viz/DScompetition_2/Dashboard1?publish=yes)
